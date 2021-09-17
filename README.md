@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/vfjxlvsrksj61ive?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-store-class)
 # Страница интернет-магазина
 Class-based компонент
 
