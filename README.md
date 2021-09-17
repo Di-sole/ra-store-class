@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+
+# Страница интернет-магазина
+Class-based компонент
+
+[GitHub Pages](https://di-sole.github.io/ra-store-class/) 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
