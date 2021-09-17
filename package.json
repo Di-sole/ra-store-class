@@ -1,5 +1,6 @@
 {
   "name": "store-class",
+	"homepage": "https://di-sole.github.io/ra-store-class",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
